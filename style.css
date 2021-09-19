@@ -23,5 +23,16 @@
 #image
 {
   margin:auto;
+  width: 60%;
+}
 
+#bottomText
+{
+  margin:auto;
+  width:60%;
+}
+
+.input
+{
+  margin-bottom: 1em;
 }
