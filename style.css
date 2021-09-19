@@ -15,5 +15,13 @@
 {
   width: 60%;
   padding 20px;
+  margin:auto;
+  justify-content:start;
+
+}
+
+#image
+{
+  margin:auto;
 
 }
