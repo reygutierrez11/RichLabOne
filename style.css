@@ -18,10 +18,12 @@
 #inputBox
 {
   width: 50%;
-  padding 20px;
+  padding 25px;
   margin: auto;
   justify-content: start;
   background-color:#f8f8f8;
+  border: 20px;
+  border-color: #dcdcdc;
 }
 
 #imageOne
