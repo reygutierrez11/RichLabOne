@@ -6,7 +6,7 @@
 
 #headerBox
 {
-  text-align:center;
+  text-align: center;
   line-height: 2;
 
 }
@@ -15,21 +15,23 @@
 {
   width: 60%;
   padding 20px;
-  margin:auto;
-  justify-content:start;
+  margin: auto;
+  justify-content: start;
 
 }
 
 #image
 {
   width: 50%;
-  margin:auto;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 #bottomText
 {
-  margin:auto;
-  width:60%;
+  margin: auto;
+  width: 60%;
 }
 
 .input
@@ -39,5 +41,5 @@
 
 #total
 {
-  margin-bottom:2em;
+  margin-bottom: 2em;
 }
