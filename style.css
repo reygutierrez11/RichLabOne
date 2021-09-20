@@ -13,14 +13,14 @@
 
 #inputBox
 {
-  width: 60%;
+  width: 50%;
   padding 20px;
   margin: auto;
   justify-content: start;
 
 }
 
-#image
+#imageOne
 {
   width: 50%;
   margin: auto;
@@ -31,12 +31,11 @@
 #bottomText
 {
   margin: auto;
-  width: 60%;
+  width: 50%;
 }
 
 .input
 {
-  margin-bottom: 2em;
 }
 
 #total
