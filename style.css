@@ -1,14 +1,17 @@
 /*This is a start*/
 .box
 {
-  margin: 30px;
+
 }
 
 #headerBox
 {
   text-align: center;
   line-height: 2;
-  margin-bottom: 60 px;
+  margin-bottom: 250px;
+  background-color: #dcdcdc;
+  border-style:solid;
+  border: 10px;
 
 }
 
@@ -18,8 +21,7 @@
   padding 20px;
   margin: auto;
   justify-content: start;
-
-}
+  }
 
 #imageOne
 {
@@ -45,4 +47,9 @@
 #total
 {
   margin-bottom: 2em;
+}
+
+#bigBox
+{
+  background-color: #a2a2a2;
 }
