@@ -23,6 +23,7 @@
   justify-content: start;
   background-color:#f8f8f8;
   border: 10px solid black;
+  text: 15px;
 }
 
 #imageOne
@@ -41,10 +42,6 @@
   margin: auto;
   margin-top: 150px;
   width: 50%;
-}
-
-.input
-{
 }
 
 #total
