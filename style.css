@@ -8,6 +8,7 @@
 {
   text-align: center;
   line-height: 2;
+  margin-bottom: 60 px;
 
 }
 
@@ -33,6 +34,7 @@
 #bottomText
 {
   margin: auto;
+  margin-top: 150px;
   width: 50%;
 }
 
