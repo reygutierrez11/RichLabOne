@@ -8,7 +8,7 @@
 {
   text-align: center;
   line-height: 2;
-  margin-bottom: 250px;
+  margin-bottom: 160px;
   background-color: #dcdcdc;
   border-style:solid;
   border: 10px;
@@ -21,7 +21,8 @@
   padding 20px;
   margin: auto;
   justify-content: start;
-  }
+  background-color:#f8f8f8;
+}
 
 #imageOne
 {
@@ -31,6 +32,7 @@
   margin-top 40px;
   margin-bottom: 40px;
   width: 50%;
+  padding: 25px;
 }
 
 #bottomText
