@@ -22,8 +22,7 @@
   margin: auto;
   justify-content: start;
   background-color:#f8f8f8;
-  border: 20px;
-  border-color: #dcdcdc;
+  border: 20px solid black;
 }
 
 #imageOne
